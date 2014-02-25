@@ -1,0 +1,15 @@
+{
+  "name": "fez-uglify-poc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fez": "~1.0.8",
+    "fez-uglify": "~0.1.0"
+  }
+}
